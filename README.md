@@ -32,61 +32,61 @@ Se você caiu aqui por curiosidade ou busca de aprendizado, fique à vontade par
 
 ## 🗂️ Estrutura do Repositório
 
-Jornada-Estudos-IA/
-├── 0_apresentação/ → Visão geral e motivação da jornada
-├── 1_Fase1_ Fundamentos Essenciais/
-│ └── Banco de Dados e Engenharia de Dados/
-|   └── Engenharia de Dados
-|   └── Fundamentos de Banco de Dados
-│ └── Bases Matemáticas e Estatísticas/
-|   └── Álgebra Linear/
-|   └── Cálculo/
-|   └── Estatística e Probabilidade/
-│ └── Estruturas de Dados e Algoritmos Fundamentais/
-│ └── Lógica e Álgebra Booleana/
-│ └── Programação Python/
-│ └── README.md
-├── 2_Fase2_Explorando o Aprendizado de Máquina/
-| └── Deep Learning e Redes Neurais/
-|   └── Frameworks DL/
-│   └── Redes Neurais Convolucionais (CNNs)/
-│   └── Redes Neurais Recorrentes/
-│ └── Fundamentos de IA/
-│   └── História, evolução, tipos... (anotações)
-│   └── Ética, Viés em IA e Responsabilidade (anotações)
-│   └── Tendências e Futuro da IA (anotações)
-│ └── Machine Learning Core/
-│   └── Aprendizado Não Supervisionado/
-│   └── Aprendizado Supervisionado/
-│ └── README.md
-├── 3_Fase3_Especializações e BigData/
-│ └── Aprendizado por Reforço/
-│ └── Big Data e Escalabilidade/
-│ └── Processamento de Linguagem Natural (NLP)/
-│ └── Visão Computacional/
-│ └── README.md
-├── 4_Fase4_Sistemas e Dev/
-│ └── Computação em Nuvem/
-│ └── Desenvolvimento de Sistemas/
-│ └── Engenharia de Requisitos/
-│ └── Metodologias de Desenvolvimento de Sistemas/
-│ └── Rede de Computadores/
-│ └── Segurança Cibernética/
-│ └── README.md
-├── 5_Extensões Estratégicas/
-│ └── Certificações e Provas Profissionais/
-│ └── Comunicação e Visualização de Dados/
-│ └── Ética aplicada à Engenharia de IA
-│ └── MLOps e Operações de Modelos
-│ └── README.md
-├── 6_Projeto & Portfólio/
-│ └── Meu-Projeto-IA/
-│ └── README.md
-├── diario_estudos.md → Registro de progresso pessoal
-├── Formato para Teoria.md → Template opcional para organização de anotações
-├── requirements.txt → Bibliotecas e dependências Python
-├── referencias.md
-├── trilha-completa.md
+Jornada-Estudos-IA/\
+├── 0_apresentação/ → Visão geral e motivação da jornada\
+├── 1_Fase1_ Fundamentos Essenciais/\
+│ └── Banco de Dados e Engenharia de Dados/\
+|   └── Engenharia de Dados\
+|   └── Fundamentos de Banco de Dados\
+│ └── Bases Matemáticas e Estatísticas/\
+|   └── Álgebra Linear/\
+|   └── Cálculo/\
+|   └── Estatística e Probabilidade/\
+│ └── Estruturas de Dados e Algoritmos Fundamentais/\
+│ └── Lógica e Álgebra Booleana/\
+│ └── Programação Python/\
+│ └── README.md\
+├── 2_Fase2_Explorando o Aprendizado de Máquina/\
+| └── Deep Learning e Redes Neurais/\
+|   └── Frameworks DL/\
+│   └── Redes Neurais Convolucionais (CNNs)/\
+│   └── Redes Neurais Recorrentes/\
+│ └── Fundamentos de IA/\
+│   └── História, evolução, tipos... (anotações)\
+│   └── Ética, Viés em IA e Responsabilidade (anotações)\
+│   └── Tendências e Futuro da IA (anotações)\
+│ └── Machine Learning Core/\
+│   └── Aprendizado Não Supervisionado/\
+│   └── Aprendizado Supervisionado/\
+│ └── README.md\
+├── 3_Fase3_Especializações e BigData/\
+│ └── Aprendizado por Reforço/\
+│ └── Big Data e Escalabilidade/\
+│ └── Processamento de Linguagem Natural (NLP)/\
+│ └── Visão Computacional/\
+│ └── README.md\
+├── 4_Fase4_Sistemas e Dev/\
+│ └── Computação em Nuvem/\
+│ └── Desenvolvimento de Sistemas/\
+│ └── Engenharia de Requisitos/\
+│ └── Metodologias de Desenvolvimento de Sistemas/\
+│ └── Rede de Computadores/\
+│ └── Segurança Cibernética/\
+│ └── README.md\
+├── 5_Extensões Estratégicas/\
+│ └── Certificações e Provas Profissionais/\
+│ └── Comunicação e Visualização de Dados/\
+│ └── Ética aplicada à Engenharia de IA\
+│ └── MLOps e Operações de Modelos\
+│ └── README.md\
+├── 6_Projeto & Portfólio/\
+│ └── Meu-Projeto-IA/\
+│ └── README.md\
+├── diario_estudos.md → Registro de progresso pessoal\
+├── Formato para Teoria.md → Template opcional para organização de anotações\
+├── requirements.txt → Bibliotecas e dependências Python\
+├── referencias.md\
+├── trilha-completa.md\
 └── README.md → **(você está aqui!)**
 
 ---
